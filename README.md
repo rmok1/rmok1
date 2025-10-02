@@ -1,4 +1,4 @@
-# 💥 Robert M. Martin  
+# 💥 Robert M. Martin
 
 <a href="https://www.linkedin.com/in/robert-martin-653820263/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 <a href="https://github.com/Joettyy"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>  
@@ -10,7 +10,7 @@ I’m studying **cybersecurity** with the goal of becoming a **penetration teste
 Right now, I’m sharpening my skills through:  
 
 - 🎯 Capture the Flag (CTF) challenges  
-- 🔐 HackTheBox practice  
+- 🔐 HackTheBox and TryHackMe practice  
 - 🏗 Personal cybersecurity labs  
 - 📚 Certifications (Google Cybersecurity Professional, CompTIA A+, Network+, Security+)  
 
@@ -20,28 +20,29 @@ I thrive on **problem solving**, pushing through roadblocks, and learning by doi
 
 ## 🛡 Skills  
 
-- 🕵️ **Penetration Testing Basics** – HackTheBox, CTFs  
+- 🕵️ **Penetration Testing Basics** – HackTheBox, CTFs, TryHackMe  
 - 🧩 **Problem Solving & Troubleshooting**  
 - 🤝 **Collaboration & Teamwork**  
 - 🔍 **Analytical Thinking**  
+- 🖥 **Linux & Command Line**  
 
 ---
 
 ## 🧰 Tools  
 
-### 🌐 Network  
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />  
-<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />  
-<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />  
+### 🌐 Network / Recon  
+<img src="https://img.shields.io/badge/-Nmap-0A0A0A?&style=for-the-badge&logo=nmap&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />  
 
-### 🖥 Endpoint  
-<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />  
-<img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />  
+### 🖥 Endpoint / Host  
+<img src="https://img.shields.io/badge/-Linux_Bash-333333?&style=for-the-badge&logo=gnu-bash&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Sysinternals-0078D7?&style=for-the-badge&logo=windows&logoColor=white" />  
 
-### 📊 SIEM  
-<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />  
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />  
-<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />  
+### Dev / Collaboration  
+<img src="https://img.shields.io/badge/-Git-181717?&style=for-the-badge&logo=git&logoColor=white" />  
+<img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />  
+
+> *Note: I’m familiar with Nmap, Linux command line, and CTF workflows (HTB/TryHackMe). I’m actively learning packet capture (Wireshark), basic host forensics (Sysinternals), and scripting to automate recon.*
 
 ---
 
@@ -63,4 +64,4 @@ I thrive on **problem solving**, pushing through roadblocks, and learning by doi
 
 ---
 
-✨ *“Every solved challenge is another step closer to mastery.”* ✨  
+✨ *“Every solved challenge is another step closer to mastery.”* ✨
