@@ -56,7 +56,7 @@ I thrive on **problem solving**, pushing through roadblocks, and learning by doi
 
 ## 🔬 Projects  
 ### 🔗 Featured Project  
-[Botium Toys – Controls & Compliance Audit](https://github.com/Joettyy/botium-toys-audit)  
+[Botium Toys – Controls & Compliance Audit](https://github.com/rmok1/botium-toys-audit)  
 - 🛡 **HackTheBox Challenges** – Learning penetration testing by solving boxes  
 - 🎯 **CTF Competitions** – Building problem-solving skills under pressure  
 - 🧪 **Personal Cybersecurity Labs** – Experimenting with tools and workflows  
