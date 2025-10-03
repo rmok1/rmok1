@@ -1,7 +1,4 @@
-Got it 👍 here’s the **raw markdown** version you can copy straight into your GitHub README.md:
-
-```markdown
-# 💥 Robert M. Martin
+# 💥 Robert M. Martin  
 
 <a href="https://www.linkedin.com/in/robert-martin-653820263/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
@@ -78,6 +75,3 @@ I thrive on **problem solving**, pushing through roadblocks, and learning by doi
 ---
 
 ✨ *“Every solved challenge is another step closer to mastery.”* ✨  
-```
-
-Do you want me to also make you a **second repo template** (like `pc-builds` or `repair-notes`) in raw markdown where you can drop little logs/pics of your laptop fixes and PC builds? That’ll make your GitHub look even more hands-on.
